@@ -1,5 +1,5 @@
 # Integrated Navigation
-This project integrates GNSS and sensor data for computing motion profiles.
+This project integrates GNSS and sensor data in MATLAB for computing motion profiles.
 ## Implementation Flowchart
 <img src="https://github.com/XDDz123/integrated-navigation/assets/20507222/629daf2c-3267-4e69-b4f7-7ea006b25781" width="80%" height="80%"> 
 
